@@ -1,0 +1,15 @@
+{
+    "namespace": "com.nice.model",
+    "type": "record",
+    "name": "User",
+    "fields": [
+        {
+            "name": "username",
+            "type": "string"
+        },
+        {
+            "name": "password",
+            "type": "string"
+        }
+    ]
+}
